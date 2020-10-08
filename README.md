@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on Kotlin support in Emacs Semantic
 - 🌱 I’m currently learning Kotlin and Emacs Lisp
 - 💬 Ask me about Lexers, Parsers, Emacs, C, C++, Python, Rust
-- 📫 How to reach me: https://twitter.com/codeisgreat
+- 📫 How to reach me: Email address in my profile
