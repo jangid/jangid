@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Kotlin support in Emacs Semantic
-- 🌱 I’m currently learning Kotlin and Emacs Lisp
+- 🔭 I’m currently working on a simple SSO using Python
+- 🌱 I’m currently learning Emacs Lisp
 - 💬 Ask me about Lexers, Parsers, Emacs, C, C++, Python, Rust
 - 📫 How to reach me: Email address in my profile
