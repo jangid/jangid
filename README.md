@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a simple SSO using Python
-- 🌱 I’m currently learning Emacs Lisp
-- 💬 Ask me about Lexers, Parsers, Emacs, C, C++, Python, Rust
+- 🔭 I’m currently working on a collaborative investment application
+- 🌱 An Emacs user... always found tweaking it.
+- 💬 Ask me about Lexers, Parsers, Emacs, C, C++, Rust
 - 📫 How to reach me: Email address in my profile
