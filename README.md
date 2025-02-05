@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a collaborative investment application
-- 🌱 An Emacs user... always found tweaking it.
-- 💬 Ask me about Emacs, C, C++, Rust
+- 🔭 I’m currently working on #AlphaFi #Crypto #DeFi
+- 🌱 An Emacs user… always tinkering with it.
+- 💬 Ask me about Emacs, C, Go, Rust
 - 📫 How to reach me: Email address in my profile
